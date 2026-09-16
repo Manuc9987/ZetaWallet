@@ -1,508 +1,479 @@
-ZETAWALLET
+ZetaWallet
 
-TERMS & CONDITIONS / TERMINI E CONDIZIONI
+Terms & Conditions / Termini e Condizioni
 
-Ultimo aggiornamento / Last updated: 16 settembre 2026 / September 16, 2026
+Ultimo aggiornamento / Last updated: 16 settembre 2026
 
 ⸻
 
 ITALIANO
 
-1. Oggetto del servizio
+1. Oggetto e accettazione
 
-ZetaWallet è un’applicazione software che consente agli utenti di utilizzare un wallet di criptovalute non custodial.
+I presenti Termini e Condizioni disciplinano l’utilizzo dell’applicazione mobile ZetaWallet e dei relativi servizi.
 
-Le funzionalità possono includere:
+Installando, accedendo o utilizzando ZetaWallet, l’utente dichiara di aver letto, compreso e accettato i presenti Termini e Condizioni.
 
-• creazione o importazione di wallet;
-• visualizzazione di asset digitali;
-• visualizzazione di saldi e informazioni blockchain;
-• invio di criptovalute;
-• ricezione di criptovalute;
-• visualizzazione dello storico delle transazioni;
-• scambio tra criptovalute tramite ChangeNOW, ove disponibile.
-
-ZetaWallet non offre attualmente la possibilità di acquistare direttamente criptovalute tramite valuta fiat.
+Se l’utente non accetta i presenti Termini, deve interrompere l’utilizzo dell’applicazione.
 
 ⸻
 
-2. Wallet non custodial
+2. Natura di ZetaWallet
 
-ZetaWallet è un servizio non custodial.
+ZetaWallet è un’applicazione software per la gestione di wallet di criptovalute di tipo non-custodial.
 
-Il Titolare non prende possesso degli asset digitali dell’utente e non opera come custode dei fondi.
+ZetaWallet non custodisce, controlla o detiene le criptovalute dell’utente e non mantiene le chiavi private o le seed phrase dell’utente sui propri server per conto dell’utente.
 
-Il controllo degli asset dipende dalle chiavi private, seed phrase o altri strumenti crittografici associati al wallet.
+L’utente mantiene il controllo delle proprie chiavi private e/o seed phrase e rimane l’unico responsabile della loro sicurezza.
 
-L’utente è responsabile della custodia e della sicurezza delle proprie credenziali.
+ZetaWallet non può recuperare, ripristinare o sostituire una seed phrase o una chiave privata persa.
 
-⸻
-
-3. Seed phrase e chiavi private
-
-L’utente è l’unico responsabile della conservazione della propria seed phrase e delle proprie chiavi private.
-
-La perdita o divulgazione di tali informazioni può comportare la perdita permanente degli asset.
-
-ZetaWallet non garantisce il recupero di una seed phrase o di una chiave privata persa.
-
-ZetaWallet non richiederà mai la seed phrase o la chiave privata tramite assistenza, e-mail o altri canali.
+ZetaWallet non richiederà mai la seed phrase o le chiavi private tramite il servizio di assistenza, email o altri canali di comunicazione.
 
 ⸻
 
-4. Transazioni blockchain
+3. Funzionalità
 
-Le transazioni blockchain possono essere irreversibili.
+ZetaWallet può consentire, a seconda della versione disponibile e delle reti supportate:
 
-Prima di confermare una transazione, l’utente deve verificare:
+• creazione e gestione di wallet non-custodial;
+• importazione di wallet compatibili;
+• visualizzazione di saldi e asset digitali;
+• invio e ricezione di criptovalute;
+• visualizzazione delle informazioni e dello storico delle transazioni blockchain;
+• interazione con diverse reti blockchain;
+• conversione o scambio di criptovalute tramite servizi di terze parti integrati nell’applicazione.
 
-• indirizzo destinatario;
+ZetaWallet non offre attualmente un servizio diretto di acquisto di criptovalute tramite valuta fiat.
+
+Le funzionalità disponibili possono essere modificate, sospese o rimosse nel tempo.
+
+⸻
+
+4. Servizio di swap tramite ChangeNOW
+
+La funzione di conversione o scambio di criptovalute disponibile in ZetaWallet è fornita tramite ChangeNOW, un servizio di terze parti integrato tramite la relativa infrastruttura/API.
+
+ZetaWallet non gestisce direttamente l’esecuzione dello scambio, non custodisce i fondi necessari all’operazione e non agisce come custode delle criptovalute dell’utente.
+
+L’utilizzo della funzione di swap può essere soggetto ai termini, alle condizioni, alle procedure di verifica, alle limitazioni territoriali, alle commissioni e alle politiche di ChangeNOW.
+
+L’utente può essere tenuto ad accettare i termini e le condizioni di ChangeNOW prima di utilizzare il relativo servizio.
+
+ChangeNOW può applicare procedure KYC (Know Your Customer) e AML (Anti-Money Laundering), comprese verifiche dell’identità, controlli delle transazioni o altre procedure di conformità previste dalle proprie politiche e dalla normativa applicabile.
+
+I requisiti di verifica possono dipendere, tra l’altro, dalla giurisdizione dell’utente, dalla transazione, dall’asset, dalla rete utilizzata e dai sistemi di gestione del rischio del provider.
+
+Pertanto, ZetaWallet non garantisce che gli swap possano essere effettuati senza KYC o senza altre verifiche.
+
+⸻
+
+5. Rapporto affiliate con ChangeNOW
+
+ZetaWallet può partecipare al programma affiliate/referral di ChangeNOW.
+
+Attraverso tale programma, ZetaWallet può ricevere una remunerazione da ChangeNOW per le transazioni idonee effettuate dagli utenti tramite l’integrazione ChangeNOW presente nell’applicazione.
+
+La remunerazione affiliate non comporta che ZetaWallet custodisca i fondi dell’utente né che ZetaWallet diventi il soggetto che esegue direttamente lo scambio.
+
+La commissione affiliate è determinata secondo gli accordi e le condizioni applicabili tra ZetaWallet e ChangeNOW. Alla data dell’ultimo aggiornamento dei presenti Termini, il programma affiliate di ChangeNOW indica una commissione standard dello 0,4% sulle transazioni crypto-to-crypto completate idonee, soggetta ai relativi termini del programma e a eventuali modifiche da parte di ChangeNOW.
+La commissione affiliate è una remunerazione derivante dal rapporto commerciale tra ZetaWallet e ChangeNOW e non rappresenta una commissione di custodia.
+
+ZetaWallet non rappresenta di essere un agente, dipendente o rappresentante autorizzato di ChangeNOW oltre quanto espressamente previsto dagli accordi applicabili.
+
+ChangeNOW rimane un fornitore indipendente del servizio di swap.
+
+⸻
+
+6. Transazioni blockchain
+
+Le transazioni effettuate tramite blockchain possono essere irreversibili.
+
+Prima di confermare una transazione, l’utente deve verificare attentamente:
+
+• indirizzo del destinatario;
 • rete blockchain;
-• asset;
+• asset/token;
 • importo;
-• commissioni;
-• eventuali dati aggiuntivi.
+• commissioni di rete;
+• eventuali commissioni del servizio;
+• eventuali informazioni relative allo swap.
 
-ZetaWallet non può normalmente annullare una transazione già trasmessa o confermata dalla blockchain.
+ZetaWallet non può garantire l’annullamento o il recupero di una transazione blockchain già confermata.
 
-⸻
-
-5. Commissioni blockchain
-
-Le blockchain possono applicare commissioni di rete, gas fee o commissioni equivalenti.
-
-Tali commissioni dipendono dalla blockchain e dalle condizioni della rete e possono variare nel tempo.
+Le commissioni di rete sono determinate dalle rispettive blockchain e possono variare in funzione della congestione e delle condizioni della rete.
 
 ⸻
 
-6. Funzione Swap e ChangeNOW
+7. Rischi delle criptovalute
 
-ZetaWallet utilizza ChangeNOW come servizio di terze parti per fornire la funzionalità di swap tra criptovalute.
+L’utilizzo di criptovalute comporta rischi significativi, tra cui:
 
-ChangeNOW opera come provider indipendente del servizio di exchange.
-
-Gli swap possono dipendere da:
-
-• liquidità disponibile;
-• quotazioni;
-• condizioni di mercato;
-• disponibilità delle reti;
-• commissioni;
-• slippage;
-• condizioni degli smart contract;
-• controlli di rischio;
-• disponibilità del servizio ChangeNOW.
-
-ZetaWallet non garantisce che una specifica quotazione o rotta di swap rimanga disponibile fino alla conclusione della transazione.
-
-Gli swap effettuati tramite ChangeNOW sono inoltre soggetti ai termini e alle condizioni applicabili di ChangeNOW.
-
-⸻
-
-7. KYC e AML
-
-ZetaWallet non richiede direttamente una procedura KYC per la semplice creazione o gestione del wallet non custodial.
-
-Tuttavia, ZetaWallet non garantisce che gli swap siano esenti da KYC.
-
-ChangeNOW può applicare procedure AML/KYC e può richiedere la verifica dell’identità, controlli aggiuntivi o altre informazioni prima o durante determinate operazioni.
-
-Tali controlli possono dipendere dalla transazione, dal Paese dell’utente, dal rischio rilevato e dalla normativa applicabile.
-
-L’utente accetta di rispettare le procedure richieste da ChangeNOW per utilizzare la funzionalità di swap.
-
-⸻
-
-8. Nessun acquisto con valuta fiat
-
-Alla data di questi Termini, ZetaWallet non consente di acquistare direttamente criptovalute tramite euro, dollari o altre valute fiat.
-
-La funzione Swap è destinata allo scambio tra asset digitali supportati.
-
-⸻
-
-9. Rischi delle criptovalute
-
-L’utilizzo di asset digitali comporta rischi significativi, inclusi:
-
-• volatilità;
+• volatilità dei prezzi;
 • perdita totale o parziale del valore;
+• perdita o compromissione delle chiavi private;
 • perdita della seed phrase;
 • transazioni irreversibili;
-• errori dell’utente;
-• vulnerabilità degli smart contract;
-• problemi delle blockchain;
-• congestione;
-• fork;
-• attacchi informatici;
-• phishing;
-• problemi di liquidità;
-• indisponibilità dei servizi di terze parti;
+• errori nell’indirizzo o nella rete;
+• vulnerabilità di smart contract e protocolli;
+• malfunzionamenti o congestione delle blockchain;
+• indisponibilità di reti o servizi di terze parti;
 • modifiche normative.
 
-L’utente accetta tali rischi utilizzando il Servizio.
+ZetaWallet non fornisce consulenza finanziaria, fiscale, legale o di investimento.
+
+L’utente è responsabile delle proprie decisioni relative alle criptovalute.
 
 ⸻
 
-10. Nessuna consulenza finanziaria
+8. Responsabilità dell’utente
 
-ZetaWallet non fornisce consulenza finanziaria, fiscale o legale.
+L’utente è responsabile:
 
-Le informazioni visualizzate nell’App non costituiscono raccomandazioni di investimento.
+• della sicurezza del dispositivo utilizzato;
+• della sicurezza della seed phrase e delle chiavi private;
+• della correttezza degli indirizzi utilizzati;
+• della selezione della rete corretta;
+• della verifica delle transazioni prima della conferma;
+• del rispetto delle leggi applicabili;
+• delle imposte e degli obblighi fiscali eventualmente derivanti dalle proprie attività.
 
-L’utente deve effettuare le proprie valutazioni prima di utilizzare qualsiasi asset digitale.
+L’utente non deve utilizzare ZetaWallet per attività illegali, fraudolente o finalizzate all’elusione di sanzioni o controlli legalmente applicabili.
 
-⸻
-
-11. Servizi di terze parti
-
-ZetaWallet può dipendere da servizi esterni, inclusi ChangeNOW, provider blockchain, RPC, infrastrutture e altri servizi tecnici.
-
-Il Titolare non garantisce la disponibilità continua, la sicurezza o il funzionamento ininterrotto di tali servizi.
-
-⸻
-
-12. Utilizzo illecito
-
-L’utente non può utilizzare ZetaWallet per attività illegali o fraudolente.
-
-È vietato utilizzare il Servizio per attività quali:
+È vietato utilizzare ZetaWallet per, tra le altre cose:
 
 • riciclaggio di denaro;
 • finanziamento del terrorismo;
 • frode;
 • furto;
-• attività informatiche illecite;
-• evasione di sanzioni;
-• malware;
-• manipolazione dei servizi;
-• attività vietate dalla legge.
-
-L’utente è responsabile del rispetto delle leggi applicabili.
+• attività criminali;
+• evasione o elusione di sanzioni;
+• distribuzione di malware;
+• attacchi informatici;
+• abuso dei servizi o delle infrastrutture.
 
 ⸻
 
-13. Restrizioni geografiche e normative
+9. Servizi di terze parti
 
-Le funzionalità possono essere limitate o non disponibili in determinati Paesi o territori.
+ZetaWallet può utilizzare servizi, infrastrutture, API, nodi blockchain, provider tecnologici e altri servizi di terze parti.
 
-L’utente è responsabile di verificare che l’utilizzo di ZetaWallet e delle funzionalità di swap sia legalmente consentito nella propria giurisdizione.
+Tali servizi possono essere soggetti a termini, condizioni, disponibilità, limitazioni e politiche proprie.
 
-Le normative relative alle criptovalute possono variare significativamente tra Paesi e possono cambiare nel tempo.
+ZetaWallet non garantisce la disponibilità continua, l’accuratezza o il funzionamento ininterrotto dei servizi di terze parti.
 
-⸻
-
-14. Età minima
-
-ZetaWallet è destinato esclusivamente a utenti di almeno 18 anni, salvo che la legge applicabile richieda un’età superiore.
+In particolare, gli swap tramite ChangeNOW dipendono dalla disponibilità del relativo servizio, dalla liquidità, dalle reti blockchain, dai tassi disponibili, dalle commissioni, dai sistemi di gestione del rischio e dagli eventuali requisiti di verifica applicabili.
 
 ⸻
 
-15. Disponibilità del servizio
+10. Disponibilità e modifiche del servizio
 
-Il Titolare può sospendere o limitare temporaneamente il Servizio per:
+ZetaWallet può modificare, aggiornare, sospendere o interrompere, in tutto o in parte, le proprie funzionalità.
 
-• manutenzione;
-• aggiornamenti;
-• sicurezza;
-• problemi tecnici;
-• problemi delle blockchain;
-• indisponibilità di provider esterni;
-• obblighi legali o normativi.
+Gli aggiornamenti possono essere necessari per motivi tecnici, di sicurezza, normativi o operativi.
+
+ZetaWallet non garantisce che ogni asset, rete blockchain o servizio rimanga disponibile indefinitamente.
 
 ⸻
 
-16. Proprietà intellettuale
+11. Restrizioni geografiche e normative
 
-Il software, il design, il logo, i testi e gli elementi grafici di ZetaWallet sono di proprietà del Titolare o dei rispettivi titolari dei diritti.
+L’utilizzo di ZetaWallet e dei servizi integrati può essere soggetto a restrizioni in determinate giurisdizioni.
 
-L’utente riceve una licenza limitata, personale, non esclusiva e non trasferibile per utilizzare l’App secondo questi Termini.
+L’utente è responsabile di verificare che l’utilizzo dei servizi sia consentito dalla legge applicabile nel proprio Paese o territorio.
 
-⸻
-
-17. Aggiornamenti
-
-ZetaWallet può essere aggiornato periodicamente per introdurre nuove funzionalità, correggere problemi, migliorare sicurezza e compatibilità o adeguarsi alle modifiche delle blockchain.
+ZetaWallet può limitare o impedire l’accesso a determinate funzionalità quando richiesto dalla legge, dai provider di servizi o da requisiti di conformità.
 
 ⸻
 
-18. Limitazione di responsabilità
+12. Età minima
+13. ZetaWallet è destinata a persone che abbiano compiuto 18 anni, salvo che la legge applicabile stabilisca diversamente e consenta espressamente l’utilizzo del servizio a un’età inferiore.
 
-Nella misura consentita dalla legge applicabile, il Titolare non sarà responsabile per perdite derivanti da eventi al di fuori del suo ragionevole controllo, inclusi problemi delle blockchain, smart contract, provider esterni, volatilità degli asset, perdita di credenziali, phishing, malware, errori dell’utente o indisponibilità dei servizi.
-
-Nessuna disposizione dei presenti Termini limita responsabilità che non possono essere escluse o limitate per legge.
+Utilizzando ZetaWallet, l’utente dichiara di possedere l’età e la capacità giuridica necessarie per accettare i presenti Termini.
 
 ⸻
 
-19. Modifiche ai Termini
+13. Proprietà intellettuale
 
-I presenti Termini possono essere aggiornati in caso di modifiche al Servizio, alla tecnologia o alla normativa.
+ZetaWallet, inclusi il software, il design, il logo, i marchi, i contenuti e gli elementi grafici, è protetta dalle leggi applicabili in materia di proprietà intellettuale.
+
+Salvo quanto espressamente consentito, l’utente non può copiare, modificare, distribuire, vendere, concedere in licenza, decompilare o sfruttare commercialmente ZetaWallet o i suoi elementi.
+
+⸻
+
+14. Limitazione di responsabilità
+
+Nella misura consentita dalla legge applicabile, ZetaWallet non sarà responsabile per perdite derivanti da:
+
+• perdita o furto della seed phrase;
+• perdita o compromissione delle chiavi private;
+• errori dell’utente;
+• invio di fondi a indirizzi errati;
+• selezione di una rete errata;
+• transazioni blockchain irreversibili;
+• variazioni di prezzo delle criptovalute;
+• malfunzionamenti delle blockchain;
+• indisponibilità o malfunzionamenti di servizi di terze parti;
+• problemi relativi a ChangeNOW;
+• eventi fuori dal ragionevole controllo di ZetaWallet.
+
+Nessuna disposizione dei presenti Termini esclude o limita responsabilità che non possano essere legalmente escluse o limitate.
+
+⸻
+
+15. Privacy
+
+Il trattamento dei dati personali è disciplinato dalla Privacy Policy di ZetaWallet, che costituisce parte integrante della documentazione relativa al servizio.
+
+L’utilizzo di servizi di terze parti può essere disciplinato anche dalle relative privacy policy.
+
+I dati registrati sulla blockchain possono essere pubblici e, in determinati casi, permanenti e non modificabili.
+
+⸻
+
+16. Modifiche ai presenti Termini
+
+ZetaWallet può aggiornare i presenti Termini quando necessario, anche per riflettere modifiche normative, tecniche o operative.
 
 La versione aggiornata sarà resa disponibile attraverso i canali ufficiali di ZetaWallet.
 
-⸻
-
-20. Privacy
-
-Il trattamento dei dati personali è disciplinato dalla Privacy Policy di ZetaWallet.
+L’utilizzo continuato del servizio dopo l’entrata in vigore delle modifiche costituisce accettazione dei Termini aggiornati, nella misura consentita dalla legge applicabile.
 
 ⸻
 
-21. Contatti
+17. Legge applicabile e contatti
 
-ZetaWallet
-Titolare: Manuel Centrone
-Paese: Italia
-E-mail: mysecretchatassistenza@gmail.com
-Sito: https://mysecretchat.it/
+I presenti Termini sono soggetti alla legge applicabile al rapporto con l’utente, incluse le eventuali norme imperative di tutela dei consumatori applicabili.
+
+Per informazioni, assistenza o comunicazioni relative a ZetaWallet, l’utente può utilizzare i recapiti ufficiali indicati nell’applicazione e nella Privacy Policy.
 
 ⸻
 
-ENGLISH
+ENGLISH VERSION
 
-1. Service Description
+1. Scope and Acceptance
 
-ZetaWallet is a software application providing users with a non-custodial cryptocurrency wallet.
+These Terms and Conditions govern the use of the ZetaWallet mobile application and related services.
 
-The available functionality may include:
+By installing, accessing or using ZetaWallet, you confirm that you have read, understood and accepted these Terms and Conditions.
 
-• creating or importing wallets;
-• viewing digital assets;
-• viewing blockchain balances and information;
-• sending cryptocurrencies;
-• receiving cryptocurrencies;
-• viewing transaction history;
-• exchanging cryptocurrencies through ChangeNOW, where available.
-
-ZetaWallet does not currently provide a direct feature for purchasing cryptocurrencies with fiat currency.
+If you do not agree with these Terms, you must stop using the application.
 
 ⸻
 
-2. Non-Custodial Wallet
+2. Nature of ZetaWallet
 
-ZetaWallet is a non-custodial service.
-The Controller does not take custody or possession of users’ digital assets and does not act as a custodian of funds.
+ZetaWallet is a non-custodial cryptocurrency wallet software application.
 
-Control of digital assets depends on private keys, seed phrases or other cryptographic credentials associated with the wallet.
+ZetaWallet does not custody, control or hold users’ cryptocurrency and does not maintain users’ private keys or seed phrases on its servers on the user’s behalf.
 
-Users are responsible for the custody and security of their credentials.
+The user remains in control of their private keys and/or seed phrase and is solely responsible for keeping them secure.
 
-⸻
+ZetaWallet cannot recover, restore or replace a lost seed phrase or private key.
 
-3. Seed Phrase and Private Keys
-
-Users are solely responsible for protecting their seed phrase and private keys.
-
-Loss or disclosure of such information may result in permanent loss of digital assets.
-
-ZetaWallet does not guarantee recovery of a lost seed phrase or private key.
-
-ZetaWallet will never request a seed phrase or private key through customer support, email or other communication channels.
+ZetaWallet will never request a user’s seed phrase or private keys through support, email or other communication channels.
 
 ⸻
 
-4. Blockchain Transactions
+3. Features
+
+Depending on the version and supported networks, ZetaWallet may provide:
+
+• creation and management of non-custodial wallets;
+• compatible wallet import;
+• cryptocurrency and digital-asset balance information;
+• sending and receiving cryptocurrencies;
+• blockchain transaction information and history;
+• interaction with multiple blockchain networks;
+• cryptocurrency conversion or exchange through integrated third-party services.
+ZetaWallet does not currently provide a direct fiat-to-cryptocurrency purchase service.
+
+Features may be modified, suspended or discontinued.
+
+⸻
+
+4. Swaps through ChangeNOW
+
+The cryptocurrency conversion or exchange functionality available through ZetaWallet is provided through ChangeNOW, a third-party service integrated through its API/infrastructure.
+
+ZetaWallet does not directly execute the exchange, custody the funds involved in the transaction or act as custodian of the user’s cryptocurrency.
+
+Use of the swap functionality may be subject to ChangeNOW’s terms, conditions, verification procedures, geographic restrictions, fees and compliance policies.
+
+Users may be required to accept ChangeNOW’s applicable terms before using its services.
+
+ChangeNOW may apply KYC (Know Your Customer) and AML (Anti-Money Laundering) procedures, including identity verification, transaction monitoring and other compliance procedures.
+
+Verification requirements may depend on the user’s jurisdiction, transaction, asset, blockchain network and the provider’s risk-management procedures.
+
+Accordingly, ZetaWallet does not guarantee that swaps can be performed without KYC or other verification procedures.
+
+⸻
+
+5. ChangeNOW Affiliate Relationship
+
+ZetaWallet may participate in the ChangeNOW affiliate/referral program.
+
+Through this program, ZetaWallet may receive compensation from ChangeNOW for eligible transactions generated through the ChangeNOW integration available in the application.
+
+Receiving affiliate compensation does not mean that ZetaWallet holds users’ funds or becomes the entity directly providing the exchange service.
+
+The affiliate compensation is determined by the applicable agreement and terms between ZetaWallet and ChangeNOW. As of the date of these Terms, ChangeNOW’s affiliate program specifies a standard 0.4% commission on eligible completed cryptocurrency-to-cryptocurrency transactions, subject to the applicable affiliate terms and any changes made by ChangeNOW.
+
+The affiliate compensation is a commercial remuneration arising from the relationship between ZetaWallet and ChangeNOW and is not a custody fee.
+
+ZetaWallet does not represent itself as a ChangeNOW agent, employee or authorized representative beyond what is expressly provided under the applicable agreements.
+
+ChangeNOW remains an independent provider of the exchange service.
+
+⸻
+
+6. Blockchain Transactions
 
 Blockchain transactions may be irreversible.
 
-Before confirming a transaction, users must verify:
+Before confirming a transaction, users must carefully verify:
 
 • recipient address;
 • blockchain network;
-• asset;
+• asset/token;
 • amount;
-• fees;
-• any additional transaction data.
+• network fees;
+• applicable service fees;
+• swap information where applicable.
 
-ZetaWallet generally cannot cancel a transaction once it has been broadcast or confirmed on a blockchain.
+ZetaWallet cannot guarantee cancellation or recovery of a confirmed blockchain transaction.
 
-⸻
-
-5. Blockchain Fees
-
-Blockchain networks may charge network fees, gas fees or equivalent transaction fees.
-
-Such fees depend on the relevant blockchain and network conditions and may change over time.
+Network fees are determined by the respective blockchain networks and may vary depending on network congestion and conditions.
 
 ⸻
 
-6. Swap Functionality and ChangeNOW
+7. Cryptocurrency Risks
 
-ZetaWallet uses ChangeNOW as a third-party service provider for cryptocurrency swap functionality.
+Cryptocurrency use involves significant risks, including:
 
-ChangeNOW operates as an independent exchange service provider.
-
-Swaps may depend on:
-
-• available liquidity;
-• exchange rates;
-• market conditions;
-• blockchain availability;
-• fees;
-• slippage;
-• smart-contract conditions;
-• risk controls;
-• ChangeNOW service availability.
-
-ZetaWallet does not guarantee that a specific exchange rate or swap route will remain available until the transaction is completed.
-
-Swaps conducted through ChangeNOW are also subject to the applicable ChangeNOW terms and conditions.
-
-⸻
-
-7. KYC and AML
-
-ZetaWallet does not directly require a KYC procedure for the basic creation or management of a non-custodial wallet.
-
-However, ZetaWallet does not guarantee that swaps are exempt from KYC.
-
-ChangeNOW may apply AML/KYC procedures and may require identity verification, additional checks or other information before or during certain transactions.
-
-Such requirements may depend on the transaction, the user’s jurisdiction, detected risk and applicable laws.
-
-Users agree to comply with the procedures required by ChangeNOW when using the swap functionality.
-
-⸻
-
-8. No Fiat Cryptocurrency Purchases
-
-As of the date of these Terms, ZetaWallet does not provide a direct feature for purchasing cryptocurrencies using euros, US dollars or other fiat currencies.
-
-The Swap functionality is intended for exchanging supported digital assets.
-
-⸻
-
-9. Cryptocurrency Risks
-
-The use of digital assets involves significant risks, including:
-
-• volatility;
+• price volatility;
 • partial or total loss of value;
-• loss of seed phrases;
+• loss or compromise of private keys;
+• loss of the seed phrase;
 • irreversible transactions;
-• user errors;
-• smart-contract vulnerabilities;
-• blockchain failures;
-• network congestion;
-• forks;
-• cyberattacks;
-• phishing;
-• liquidity issues;
+• incorrect addresses or networks;
+• smart-contract and protocol vulnerabilities;
+• blockchain failures or congestion;
 • third-party service interruptions;
 • regulatory changes.
 
-Users acknowledge and accept these risks when using the Service.
+ZetaWallet does not provide financial, investment, tax or legal advice.
+
+Users are solely responsible for their cryptocurrency-related decisions.
 
 ⸻
 
-10. No Financial Advice
+8. User Responsibilities
 
-ZetaWallet does not provide financial, tax or legal advice.
+Users are responsible for:
 
-Information displayed within the App does not constitute investment advice or a recommendation to buy or sell any digital asset.
+• securing their device;
+• protecting their seed phrase and private keys;
+• verifying recipient addresses;
+• selecting the correct blockchain network;
+• reviewing transactions before confirmation;
+• complying with applicable laws;
+• complying with applicable tax obligations.
 
-Users should conduct their own assessment before using any digital asset.
-
-⸻
-
-11. Third-Party Services
-
-ZetaWallet may depend on external services, including ChangeNOW, blockchain providers, RPC providers, infrastructure providers and other technical services.
-
-The Controller does not guarantee the continuous availability, security or uninterrupted operation of such third-party services.
+Users must not use ZetaWallet for unlawful, fraudulent or sanction-evasion activities.
 
 ⸻
 
-12. Prohibited Use
+9. Third-Party Services
 
-Users may not use ZetaWallet for illegal or fraudulent activities.
+ZetaWallet may rely on third-party services, APIs, blockchain infrastructure, node providers, technology providers and other external services.
+Such services may be subject to their own terms, conditions, availability and policies.
 
-The Service may not be used for activities including:
+ZetaWallet does not guarantee continuous availability or uninterrupted operation of third-party services.
 
-• money laundering;
-• terrorist financing;
-• fraud;
-• theft;
-• unlawful cyber activities;
-• sanctions evasion;
-• malware;
-• manipulation or abuse of services;
-• activities prohibited by applicable law.
-
-Users are responsible for complying with applicable laws.
+In particular, ChangeNOW swaps depend on the availability of the relevant service, liquidity, blockchain networks, available rates, fees, risk-management systems and applicable verification requirements.
 
 ⸻
 
-13. Geographic and Regulatory Restrictions
+10. Availability and Changes
 
-Certain functionality may be restricted or unavailable in specific countries or territories.
+ZetaWallet may modify, update, suspend or discontinue features in whole or in part.
 
-Users are responsible for determining whether the use of ZetaWallet and its swap functionality is legally permitted in their jurisdiction.
+Updates may be required for technical, security, regulatory or operational reasons.
 
-Cryptocurrency regulations vary between jurisdictions and may change over time.
-
-⸻
-
-14. Minimum Age
-
-ZetaWallet is intended exclusively for users who are at least 18 years old, unless applicable law requires a higher minimum age.
+ZetaWallet does not guarantee that any particular asset, blockchain network or third-party service will remain available indefinitely.
 
 ⸻
 
-15. Service Availability
+11. Geographic and Regulatory Restrictions
 
-The Controller may temporarily suspend or restrict the Service for:
+Use of ZetaWallet and integrated services may be restricted in certain jurisdictions.
 
-• maintenance;
-• updates;
-• security reasons;
-• technical issues;
-• blockchain issues;
-• third-party service interruptions;
-• legal or regulatory requirements.
+Users are responsible for determining whether use of the services is lawful in their country or territory.
+
+ZetaWallet may restrict or disable certain features where required by law, service providers or compliance requirements.
 
 ⸻
 
-16. Intellectual Property
+12. Minimum Age
 
-The ZetaWallet software, design, logo, text and graphic elements are owned by the Controller or their respective rights holders.
+ZetaWallet is intended for individuals who are 18 years of age or older, unless applicable law expressly permits use of the service at a lower age.
 
-Users receive a limited, personal, non-exclusive and non-transferable license to use the App in accordance with these Terms.
-
-⸻
-
-17. Updates
-
-ZetaWallet may be periodically updated to introduce new features, fix issues, improve security and compatibility, or adapt to blockchain changes.
+By using ZetaWallet, users represent that they have the required age and legal capacity to accept these Terms.
 
 ⸻
 
-18. Limitation of Liability
+13. Intellectual Property
 
-To the maximum extent permitted by applicable law, the Controller shall not be liable for losses resulting from events outside its reasonable control, including blockchain failures, smart contracts, third-party providers, asset volatility, lost credentials, phishing, malware, user errors or third-party service interruptions.
+ZetaWallet, including its software, design, logo, trademarks, content and graphical elements, is protected by applicable intellectual-property laws.
+
+Unless expressly permitted, users may not copy, modify, distribute, sell, license, decompile or commercially exploit ZetaWallet or its components.
+
+⸻
+
+14. Limitation of Liability
+
+To the maximum extent permitted by applicable law, ZetaWallet shall not be responsible for losses arising from:
+
+• lost or stolen seed phrases;
+• lost or compromised private keys;
+• user errors;
+• transfers to incorrect addresses;
+• selection of an incorrect network;
+• irreversible blockchain transactions;
+• cryptocurrency price changes;
+• blockchain failures;
+• third-party service failures;
+• ChangeNOW-related issues;
+• events beyond ZetaWallet’s reasonable control.
 
 Nothing in these Terms excludes or limits liability that cannot legally be excluded or limited.
 
 ⸻
 
-19. Changes to These Terms
+15. Privacy
 
-These Terms may be updated to reflect changes to the Service, technology or applicable laws.
+The processing of personal data is governed by the ZetaWallet Privacy Policy, which forms part of the documentation applicable to the service.
 
-The updated version will be made available through official ZetaWallet channels.
+Use of third-party services may also be governed by their respective privacy policies.
 
-⸻
-
-20. Privacy
-
-The processing of personal data is governed by the ZetaWallet Privacy Policy.
+Blockchain records may be public and, in certain circumstances, permanent and immutable.
 
 ⸻
 
-21. Contact
+16. Changes to These Terms
 
-ZetaWallet
-Controller: Manuel Centrone
-Country: Italy
-Email: mysecretchatassistenza@gmail.com
-Website: https://mysecretchat.it/
+ZetaWallet may update these Terms when necessary, including to reflect regulatory, technical or operational changes.
+
+The updated version will be made available through ZetaWallet’s official channels.
+
+Continued use of the service after the updated Terms become effective constitutes acceptance of the updated Terms to the extent permitted by applicable law.
+
+⸻
+
+17. Governing Law and Contact
+
+These Terms are governed by the law applicable to the relationship with the user, including any mandatory consumer-protection provisions that apply.
+
+For information, support or communications concerning ZetaWallet, users may use the official contact details provided within the application and Privacy Policy.
