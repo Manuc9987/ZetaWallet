@@ -8,7 +8,7 @@ Ultimo aggiornamento / Last updated: 16 settembre 2026 / September 16, 2026
 
 ITALIANO
 
-1. Introduzione
+Introduzione
 
 La presente Privacy Policy descrive le modalità con cui ZetaWallet (“ZetaWallet”, “App”, “Servizio” o “noi”) tratta i dati personali e le informazioni tecniche degli utenti che utilizzano l’applicazione.
 
@@ -20,7 +20,7 @@ La presente Privacy Policy deve essere letta insieme ai Termini e Condizioni di 
 
 ⸻
 
-2. Titolare del trattamento
+Titolare del trattamento
 
 Titolare: Manuel Centrone
 Paese: Italia
@@ -31,7 +31,7 @@ Per qualsiasi richiesta relativa al trattamento dei dati personali, l’utente p
 
 ⸻
 
-3. Natura non custodial
+Natura non custodial
 
 ZetaWallet è un wallet non custodial.
 
@@ -43,7 +43,7 @@ Il Titolare non richiede all’utente di comunicare la propria seed phrase o chi
 
 ⸻
 
-4. Informazioni che possono essere trattate
+Informazioni che possono essere trattate
 
 A seconda delle funzionalità utilizzate e della configurazione tecnica dell’App, possono essere trattate:
 
@@ -66,7 +66,7 @@ ZetaWallet non richiede necessariamente dati identificativi personali per la sem
 
 ⸻
 
-5. Informazioni blockchain
+Informazioni blockchain
 
 Gli indirizzi pubblici e le transazioni effettuate sulle blockchain possono essere pubblicamente visibili.
 
@@ -76,7 +76,7 @@ ZetaWallet non controlla le blockchain pubbliche e non può cancellare o modific
 
 ⸻
 
-6. Swap tramite ChangeNOW
+Swap tramite ChangeNOW
 
 ZetaWallet integra il servizio di ChangeNOW per consentire agli utenti di effettuare, ove disponibile, scambi tra criptovalute.
 
@@ -106,7 +106,7 @@ L’utente deve rispettare le condizioni e le procedure richieste da ChangeNOW p
 
 ⸻
 
-7. Nessun acquisto diretto di criptovalute
+Nessun acquisto diretto di criptovalute
 
 Alla data dell’ultimo aggiornamento, ZetaWallet non consente di acquistare direttamente criptovalute utilizzando euro, dollari o altre valute fiat.
 
@@ -114,25 +114,25 @@ Le funzionalità di scambio disponibili nell’App sono relative allo swap tra a
 
 ⸻
 
-8. Finalità del trattamento
+Finalità del trattamento
 
 I dati possono essere trattati per:
 
-1. fornire il funzionamento dell’App;
-2. visualizzare asset e informazioni blockchain;
-3. consentire l’invio e la ricezione di asset digitali;
-4. consentire gli swap disponibili;
-5. comunicare con provider blockchain e servizi tecnici;
-6. garantire sicurezza e prevenire abusi;
-7. rilevare errori e problemi tecnici;
-8. migliorare stabilità e prestazioni;
-9. adempiere a obblighi legali;
-10. gestire richieste di assistenza;
-11. esercitare o difendere diritti.
+- fornire il funzionamento dell’App;
+- visualizzare asset e informazioni blockchain;
+- consentire l’invio e la ricezione di asset digitali;
+- consentire gli swap disponibili;
+- comunicare con provider blockchain e servizi tecnici;
+- garantire sicurezza e prevenire abusi;
+- rilevare errori e problemi tecnici;
+- migliorare stabilità e prestazioni;
+- adempiere a obblighi legali;
+- gestire richieste di assistenza;
+- esercitare o difendere diritti.
 
 ⸻
 
-9. Base giuridica
+Base giuridica
 
 Quando il GDPR è applicabile, il trattamento può essere basato, a seconda della specifica attività, su:
 
@@ -143,7 +143,7 @@ Quando il GDPR è applicabile, il trattamento può essere basato, a seconda dell
 
 ⸻
 
-10. Provider e servizi di terze parti
+Provider e servizi di terze parti
 
 ZetaWallet può utilizzare fornitori tecnologici per fornire le proprie funzionalità.
 
@@ -159,7 +159,7 @@ I singoli fornitori possono trattare dati secondo le proprie informative privacy
 
 ⸻
 
-11. Indirizzo IP e dati tecnici
+Indirizzo IP e dati tecnici
 
 L’indirizzo IP e altri dati tecnici possono essere trattati per:
 
@@ -173,7 +173,7 @@ L’indirizzo IP e altri dati tecnici possono essere trattati per:
 
 ⸻
 
-12. Sicurezza
+Sicurezza
 
 Adottiamo misure tecniche e organizzative ragionevoli per proteggere i dati personali.
 
@@ -183,7 +183,7 @@ L’utente è responsabile della sicurezza del proprio dispositivo, della seed p
 
 ⸻
 
-13. Conservazione dei dati
+Conservazione dei dati
 
 I dati personali vengono conservati per il periodo necessario alle finalità per cui sono stati raccolti o per periodi più lunghi quando richiesto dalla legge.
 
@@ -191,7 +191,7 @@ Le informazioni registrate sulle blockchain pubbliche non sono sotto il controll
 
 ⸻
 
-14. Diritti dell’utente
+Diritti dell’utente
 
 Quando applicabile, l’utente può esercitare i diritti previsti dal GDPR, inclusi:
 
@@ -211,7 +211,7 @@ L’utente può inoltre presentare un reclamo all’autorità di controllo compe
 
 ⸻
 
-15. Cancellazione
+Cancellazione
 
 Se ZetaWallet implementa funzionalità che consentono la creazione di un account personale, l’utente potrà richiedere la cancellazione dell’account e dei dati personali nei limiti previsti dalla legge.
 
@@ -219,14 +219,14 @@ La cancellazione non può eliminare informazioni già registrate su blockchain p
 
 ⸻
 
-16. Minori
+Minori
 
 ZetaWallet è destinato a utenti che abbiano almeno 18 anni, salvo che la normativa applicabile richieda un’età superiore.
 Non intendiamo raccogliere consapevolmente dati personali di minori in violazione della normativa applicabile.
 
 ⸻
 
-17. Modifiche
+Modifiche
 
 La presente Privacy Policy può essere aggiornata per riflettere modifiche tecniche, normative o funzionali.
 
@@ -234,7 +234,7 @@ La data di aggiornamento riportata all’inizio del documento identifica la vers
 
 ⸻
 
-18. Contatti
+Contatti
 
 ZetaWallet
 Titolare: Manuel Centrone
@@ -245,7 +245,7 @@ E-mail: mysecretchatassistenza
 
 ENGLISH 
 
-1. Introduction
+Introduction
 
 This Privacy Policy explains how ZetaWallet (“ZetaWallet”, the “App”, the “Service” or “we”) processes personal data and technical information when users access or use the application.
 
@@ -257,7 +257,7 @@ This Privacy Policy should be read together with the ZetaWallet Terms and Condit
 
 ⸻
 
-2. Data Controller
+Data Controller
 
 Controller: Manuel Centrone
 Country: Italy
@@ -268,7 +268,7 @@ For privacy-related requests, users may contact the Controller using the email a
 
 ⸻
 
-3. Non-Custodial Nature
+Non-Custodial Nature
 
 ZetaWallet is a non-custodial wallet.
 
@@ -280,7 +280,7 @@ The Controller will never ask users to provide their seed phrase or private key 
 
 ⸻
 
-4. Information We May Process
+Information We May Process
 
 Depending on the features used and the technical configuration of the App, we may process:
 
@@ -303,7 +303,7 @@ ZetaWallet does not necessarily require personal identification information for 
 
 ⸻
 
-5. Blockchain Information
+Blockchain Information
 
 Public wallet addresses and blockchain transactions may be publicly visible.
 
@@ -313,7 +313,7 @@ ZetaWallet does not control public blockchains and cannot delete or modify trans
 
 ⸻
 
-6. Swaps Through ChangeNOW
+Swaps Through ChangeNOW
 
 ZetaWallet integrates ChangeNOW to provide cryptocurrency-to-cryptocurrency exchange functionality where available.
 
@@ -343,7 +343,7 @@ Users must comply with the procedures and requirements imposed by ChangeNOW when
 
 ⸻
 
-7. No Direct Fiat Cryptocurrency Purchases
+No Direct Fiat Cryptocurrency Purchases
 
 As of the date of this Privacy Policy, ZetaWallet does not provide a direct feature for purchasing cryptocurrencies using euros, US dollars or other fiat currencies.
 
@@ -351,7 +351,7 @@ Available exchange functionality concerns swaps between supported digital assets
 
 ⸻
 
-8. Purposes of Processing
+Purposes of Processing
 
 Information may be processed to:
 
@@ -369,7 +369,7 @@ Information may be processed to:
 
 ⸻
 
-9. Legal Bases
+Legal Bases
 
 Where GDPR applies, processing may be based, depending on the specific activity, on:
 
@@ -380,7 +380,7 @@ Where GDPR applies, processing may be based, depending on the specific activity,
 
 ⸻
 
-10. Third-Party Providers and Services
+Third-Party Providers and Services
 
 ZetaWallet may use third-party technology providers to provide its functionality.
 
@@ -396,7 +396,7 @@ Such providers may process information in accordance with their own privacy poli
 
 ⸻
 
-11. IP Address and Technical Data
+IP Address and Technical Data
 
 The IP address and other technical information may be processed for:
 
@@ -410,7 +410,7 @@ The IP address and other technical information may be processed for:
 
 ⸻
 
-12. Security
+Security
 
 We implement reasonable technical and organizational measures designed to protect personal data.
 
@@ -420,7 +420,7 @@ Users are responsible for protecting their devices, seed phrases and private key
 
 ⸻
 
-13. Data Retention
+Data Retention
 
 Personal data is retained for as long as necessary for the purposes for which it was collected or for longer periods where required by applicable law.
 
@@ -428,7 +428,7 @@ Information recorded on public blockchains is outside ZetaWallet’s control and
 
 ⸻
 
-14. User Rights
+User Rights
 
 Where applicable, users may exercise rights under the GDPR, including:
 
@@ -448,7 +448,7 @@ Users may also lodge a complaint with the competent data protection authority.
 
 ⸻
 
-15. Deletion
+Deletion
 
 If ZetaWallet provides functionality for creating a personal user account, users may request deletion of their account and personal data to the extent required by applicable law.
 
@@ -456,7 +456,7 @@ Deletion cannot remove information already recorded on public blockchains.
 
 ⸻
 
-16. Children
+Children
 
 ZetaWallet is intended for users who are at least 18 years old, unless applicable law requires a higher minimum age.
 
@@ -464,7 +464,7 @@ We do not knowingly intend to collect personal data from children in violation o
 
 ⸻
 
-17. Changes to This Privacy Policy
+Changes to This Privacy Policy
 
 This Privacy Policy may be updated to reflect technical, legal or functional changes.
 The “Last updated” date at the beginning of this document identifies the current version.
