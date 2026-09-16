@@ -8,7 +8,7 @@ Ultimo aggiornamento / Last updated: 16 settembre 2026
 
 ITALIANO
 
-1. Oggetto e accettazione
+Oggetto e accettazione
 
 I presenti Termini e Condizioni disciplinano l’utilizzo dell’applicazione mobile ZetaWallet e dei relativi servizi.
 
@@ -18,7 +18,7 @@ Se l’utente non accetta i presenti Termini, deve interrompere l’utilizzo del
 
 ⸻
 
-2. Natura di ZetaWallet
+Natura di ZetaWallet
 
 ZetaWallet è un’applicazione software per la gestione di wallet di criptovalute di tipo non-custodial.
 
@@ -32,7 +32,7 @@ ZetaWallet non richiederà mai la seed phrase o le chiavi private tramite il ser
 
 ⸻
 
-3. Funzionalità
+Funzionalità
 
 ZetaWallet può consentire, a seconda della versione disponibile e delle reti supportate:
 
@@ -50,7 +50,7 @@ Le funzionalità disponibili possono essere modificate, sospese o rimosse nel te
 
 ⸻
 
-4. Servizio di swap tramite ChangeNOW
+Servizio di swap tramite ChangeNOW
 
 La funzione di conversione o scambio di criptovalute disponibile in ZetaWallet è fornita tramite ChangeNOW, un servizio di terze parti integrato tramite la relativa infrastruttura/API.
 
@@ -68,7 +68,7 @@ Pertanto, ZetaWallet non garantisce che gli swap possano essere effettuati senza
 
 ⸻
 
-5. Rapporto affiliate con ChangeNOW
+Rapporto affiliate con ChangeNOW
 
 ZetaWallet può partecipare al programma affiliate/referral di ChangeNOW.
 
@@ -85,7 +85,7 @@ ChangeNOW rimane un fornitore indipendente del servizio di swap.
 
 ⸻
 
-6. Transazioni blockchain
+Transazioni blockchain
 
 Le transazioni effettuate tramite blockchain possono essere irreversibili.
 
@@ -105,7 +105,7 @@ Le commissioni di rete sono determinate dalle rispettive blockchain e possono va
 
 ⸻
 
-7. Rischi delle criptovalute
+Rischi delle criptovalute
 
 L’utilizzo di criptovalute comporta rischi significativi, tra cui:
 
@@ -126,7 +126,7 @@ L’utente è responsabile delle proprie decisioni relative alle criptovalute.
 
 ⸻
 
-8. Responsabilità dell’utente
+Responsabilità dell’utente
 
 L’utente è responsabile:
 
@@ -154,7 +154,7 @@ L’utente non deve utilizzare ZetaWallet per attività illegali, fraudolente o 
 
 ⸻
 
-9. Servizi di terze parti
+Servizi di terze parti
 
 ZetaWallet può utilizzare servizi, infrastrutture, API, nodi blockchain, provider tecnologici e altri servizi di terze parti.
 
@@ -166,7 +166,7 @@ In particolare, gli swap tramite ChangeNOW dipendono dalla disponibilità del re
 
 ⸻
 
-10. Disponibilità e modifiche del servizio
+Disponibilità e modifiche del servizio
 
 ZetaWallet può modificare, aggiornare, sospendere o interrompere, in tutto o in parte, le proprie funzionalità.
 
@@ -176,7 +176,7 @@ ZetaWallet non garantisce che ogni asset, rete blockchain o servizio rimanga dis
 
 ⸻
 
-11. Restrizioni geografiche e normative
+Restrizioni geografiche e normative
 
 L’utilizzo di ZetaWallet e dei servizi integrati può essere soggetto a restrizioni in determinate giurisdizioni.
 
@@ -186,14 +186,14 @@ ZetaWallet può limitare o impedire l’accesso a determinate funzionalità quan
 
 ⸻
 
-12. Età minima
-13. ZetaWallet è destinata a persone che abbiano compiuto 18 anni, salvo che la legge applicabile stabilisca diversamente e consenta espressamente l’utilizzo del servizio a un’età inferiore.
+Età minima:
+ZetaWallet è destinata a persone che abbiano compiuto 18 anni, salvo che la legge applicabile stabilisca diversamente e consenta espressamente l’utilizzo del servizio a un’età inferiore.
 
 Utilizzando ZetaWallet, l’utente dichiara di possedere l’età e la capacità giuridica necessarie per accettare i presenti Termini.
 
 ⸻
 
-13. Proprietà intellettuale
+Proprietà intellettuale
 
 ZetaWallet, inclusi il software, il design, il logo, i marchi, i contenuti e gli elementi grafici, è protetta dalle leggi applicabili in materia di proprietà intellettuale.
 
@@ -201,7 +201,7 @@ Salvo quanto espressamente consentito, l’utente non può copiare, modificare, 
 
 ⸻
 
-14. Limitazione di responsabilità
+Limitazione di responsabilità
 
 Nella misura consentita dalla legge applicabile, ZetaWallet non sarà responsabile per perdite derivanti da:
 
@@ -221,7 +221,7 @@ Nessuna disposizione dei presenti Termini esclude o limita responsabilità che n
 
 ⸻
 
-15. Privacy
+Privacy
 
 Il trattamento dei dati personali è disciplinato dalla Privacy Policy di ZetaWallet, che costituisce parte integrante della documentazione relativa al servizio.
 
@@ -231,7 +231,7 @@ I dati registrati sulla blockchain possono essere pubblici e, in determinati cas
 
 ⸻
 
-16. Modifiche ai presenti Termini
+Modifiche ai presenti Termini
 
 ZetaWallet può aggiornare i presenti Termini quando necessario, anche per riflettere modifiche normative, tecniche o operative.
 
@@ -241,7 +241,7 @@ L’utilizzo continuato del servizio dopo l’entrata in vigore delle modifiche 
 
 ⸻
 
-17. Legge applicabile e contatti
+Legge applicabile e contatti
 
 I presenti Termini sono soggetti alla legge applicabile al rapporto con l’utente, incluse le eventuali norme imperative di tutela dei consumatori applicabili.
 
@@ -249,9 +249,9 @@ Per informazioni, assistenza o comunicazioni relative a ZetaWallet, l’utente p
 
 ⸻
 
-ENGLISH VERSION
+ENGLISH 
 
-1. Scope and Acceptance
+Scope and Acceptance
 
 These Terms and Conditions govern the use of the ZetaWallet mobile application and related services.
 
@@ -261,7 +261,7 @@ If you do not agree with these Terms, you must stop using the application.
 
 ⸻
 
-2. Nature of ZetaWallet
+Nature of ZetaWallet
 
 ZetaWallet is a non-custodial cryptocurrency wallet software application.
 
@@ -275,7 +275,7 @@ ZetaWallet will never request a user’s seed phrase or private keys through sup
 
 ⸻
 
-3. Features
+Features
 
 Depending on the version and supported networks, ZetaWallet may provide:
 
@@ -292,7 +292,7 @@ Features may be modified, suspended or discontinued.
 
 ⸻
 
-4. Swaps through ChangeNOW
+Swaps through ChangeNOW
 
 The cryptocurrency conversion or exchange functionality available through ZetaWallet is provided through ChangeNOW, a third-party service integrated through its API/infrastructure.
 
@@ -310,7 +310,7 @@ Accordingly, ZetaWallet does not guarantee that swaps can be performed without K
 
 ⸻
 
-5. ChangeNOW Affiliate Relationship
+ChangeNOW Affiliate Relationship
 
 ZetaWallet may participate in the ChangeNOW affiliate/referral program.
 
@@ -328,7 +328,7 @@ ChangeNOW remains an independent provider of the exchange service.
 
 ⸻
 
-6. Blockchain Transactions
+Blockchain Transactions
 
 Blockchain transactions may be irreversible.
 
@@ -348,7 +348,7 @@ Network fees are determined by the respective blockchain networks and may vary d
 
 ⸻
 
-7. Cryptocurrency Risks
+Cryptocurrency Risks
 
 Cryptocurrency use involves significant risks, including:
 
@@ -369,7 +369,7 @@ Users are solely responsible for their cryptocurrency-related decisions.
 
 ⸻
 
-8. User Responsibilities
+User Responsibilities
 
 Users are responsible for:
 
@@ -385,7 +385,7 @@ Users must not use ZetaWallet for unlawful, fraudulent or sanction-evasion activ
 
 ⸻
 
-9. Third-Party Services
+Third-Party Services
 
 ZetaWallet may rely on third-party services, APIs, blockchain infrastructure, node providers, technology providers and other external services.
 Such services may be subject to their own terms, conditions, availability and policies.
@@ -396,7 +396,7 @@ In particular, ChangeNOW swaps depend on the availability of the relevant servic
 
 ⸻
 
-10. Availability and Changes
+Availability and Changes
 
 ZetaWallet may modify, update, suspend or discontinue features in whole or in part.
 
@@ -406,7 +406,7 @@ ZetaWallet does not guarantee that any particular asset, blockchain network or t
 
 ⸻
 
-11. Geographic and Regulatory Restrictions
+Geographic and Regulatory Restrictions
 
 Use of ZetaWallet and integrated services may be restricted in certain jurisdictions.
 
@@ -416,7 +416,7 @@ ZetaWallet may restrict or disable certain features where required by law, servi
 
 ⸻
 
-12. Minimum Age
+Minimum Age
 
 ZetaWallet is intended for individuals who are 18 years of age or older, unless applicable law expressly permits use of the service at a lower age.
 
@@ -424,7 +424,7 @@ By using ZetaWallet, users represent that they have the required age and legal c
 
 ⸻
 
-13. Intellectual Property
+Intellectual Property
 
 ZetaWallet, including its software, design, logo, trademarks, content and graphical elements, is protected by applicable intellectual-property laws.
 
@@ -432,7 +432,7 @@ Unless expressly permitted, users may not copy, modify, distribute, sell, licens
 
 ⸻
 
-14. Limitation of Liability
+Limitation of Liability
 
 To the maximum extent permitted by applicable law, ZetaWallet shall not be responsible for losses arising from:
 
@@ -452,7 +452,7 @@ Nothing in these Terms excludes or limits liability that cannot legally be exclu
 
 ⸻
 
-15. Privacy
+Privacy
 
 The processing of personal data is governed by the ZetaWallet Privacy Policy, which forms part of the documentation applicable to the service.
 
@@ -462,7 +462,7 @@ Blockchain records may be public and, in certain circumstances, permanent and im
 
 ⸻
 
-16. Changes to These Terms
+Changes to These Terms
 
 ZetaWallet may update these Terms when necessary, including to reflect regulatory, technical or operational changes.
 
@@ -472,7 +472,7 @@ Continued use of the service after the updated Terms become effective constitute
 
 ⸻
 
-17. Governing Law and Contact
+Governing Law and Contact
 
 These Terms are governed by the law applicable to the relationship with the user, including any mandatory consumer-protection provisions that apply.
 
